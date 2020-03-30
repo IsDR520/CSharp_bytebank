@@ -1,0 +1,6 @@
+C:\Projetos\CSharp\ByteBank\BytrBank\BytrBank\bin\Debug\ByteBank.exe.config
+C:\Projetos\CSharp\ByteBank\BytrBank\BytrBank\bin\Debug\ByteBank.exe
+C:\Projetos\CSharp\ByteBank\BytrBank\BytrBank\bin\Debug\ByteBank.pdb
+C:\Projetos\CSharp\ByteBank\BytrBank\BytrBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Projetos\CSharp\ByteBank\BytrBank\BytrBank\obj\Debug\ByteBank.exe
+C:\Projetos\CSharp\ByteBank\BytrBank\BytrBank\obj\Debug\ByteBank.pdb

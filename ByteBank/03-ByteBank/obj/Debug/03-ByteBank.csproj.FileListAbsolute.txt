@@ -1,0 +1,5 @@
+C:\Projetos\CSharp\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe.config
+C:\Projetos\CSharp\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe
+C:\Projetos\CSharp\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.pdb
+C:\Projetos\CSharp\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.exe
+C:\Projetos\CSharp\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.pdb

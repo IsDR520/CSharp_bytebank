@@ -1,0 +1,6 @@
+C:\Projetos\CSharp\ByteBank\03_1-primeiraClasse\bin\Debug\03_1-primeiraClasse.exe.config
+C:\Projetos\CSharp\ByteBank\03_1-primeiraClasse\bin\Debug\03_1-primeiraClasse.exe
+C:\Projetos\CSharp\ByteBank\03_1-primeiraClasse\bin\Debug\03_1-primeiraClasse.pdb
+C:\Projetos\CSharp\ByteBank\03_1-primeiraClasse\obj\Debug\03_1-primeiraClasse.csprojAssemblyReference.cache
+C:\Projetos\CSharp\ByteBank\03_1-primeiraClasse\obj\Debug\03_1-primeiraClasse.exe
+C:\Projetos\CSharp\ByteBank\03_1-primeiraClasse\obj\Debug\03_1-primeiraClasse.pdb
